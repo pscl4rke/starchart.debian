@@ -1,0 +1,5 @@
+starchart (3.2.2-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- P. S. Clarke <debs@pscl4rke.net>  Thu, 08 Jan 2015 10:41:27 +0000
