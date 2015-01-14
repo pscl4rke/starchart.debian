@@ -11,5 +11,6 @@ Homepage: http://starchart.sourceforge.net/
 Package: starchart
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Generate astronomical maps
+ Starchart is able to generate Postscript, PNG and even ASCII renderings
+ of the night sky, including planet positions and constellations.
