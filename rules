@@ -11,3 +11,9 @@
 
 %:
 	dh $@  --with autotools-dev
+
+override_dh_installman:
+	sed -i 's/LOCAL/1/' man/*
+	cp man/starchart.1 man/stardsp.1
+	dh_installman man/*
+

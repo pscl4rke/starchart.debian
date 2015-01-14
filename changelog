@@ -3,6 +3,7 @@ starchart (3.2.2-2) UNRELEASED; urgency=low
   * Delete files to stop lintian whinging as much.
   * Add a gitignore.
   * Add a basic package description.
+  * Fix manpage installation with an override.
 
  -- P. S. Clarke <debs@pscl4rke.net>  Tue, 13 Jan 2015 20:15:00 +0000
 
