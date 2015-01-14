@@ -1,5 +1,11 @@
+starchart (3.2.2-2) UNRELEASED; urgency=low
+
+  * Delete files to stop lintian whinging as much.
+
+ -- P. S. Clarke <debs@pscl4rke.net>  Tue, 13 Jan 2015 20:15:00 +0000
+
 starchart (3.2.2-1) unstable; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial version with the bare minimum to build.
 
  -- P. S. Clarke <debs@pscl4rke.net>  Thu, 08 Jan 2015 10:41:27 +0000
